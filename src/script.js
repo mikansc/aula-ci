@@ -1,4 +1,4 @@
-function somas(num1, num2) {
+function somaz(num1, num2) {
   return num1 + num2;
 }
 
